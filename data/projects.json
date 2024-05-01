@@ -380,6 +380,16 @@
         "tags": "react, quote-generator, html, css, javascript"
     },
     {
+        "name": "Reels-Machine",
+        "display": "Reels Machine",
+        "description": "Game made by using javascript and node.js.",
+        "author": "Tardigrade-Died",
+        "category": "console app, game",
+        "level": "intermediate",
+        "site": "",
+        "tags": "javascript, node.js, ReelsMachine"
+    },
+    {
         "name": "copia-backups",
         "display": "Copia backups",
         "description": "A script for creating backups of multiple folders/files into multiple destinations.",
